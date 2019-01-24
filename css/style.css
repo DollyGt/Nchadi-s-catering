@@ -1,0 +1,36 @@
+body{
+    background-color:#FFEBCD;
+}
+
+#header{
+    background-image:  url("../images/pic1.jpg");
+    width:100%;
+    height:80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative; 
+    border-bottom-color: skyblue;
+    border-bottom: dashed;
+}
+
+.my-details{
+    text-align: center;
+    padding-top: 150px;
+}
+
+hr.style14 { 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, black, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, black, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, black, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, black, #f0f0f0); 
+    border: 0;
+    height: 2px; 
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+hr.longer {
+    margin-left: 2%;
+    margin-right: 2%;
+}
